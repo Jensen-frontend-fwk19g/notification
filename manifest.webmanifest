@@ -1,0 +1,16 @@
+{
+  "name": "Notification demo app",
+  "short_name": "Notification",
+  "description": "Show notifications",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#AB0C39",
+  "theme_color": "#AB0C39"
+}

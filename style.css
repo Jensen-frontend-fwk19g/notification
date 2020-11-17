@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #AB0C39;
+    --secondary-color: #ED94AD;
+}
+
+body {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    font-size: 1.2em;
+}
+
+button {
+    padding: 1em;
+    margin: 0.4em;
+    background-color: var(--secondary-color);
+    color:  var(--primary-color);
+}
